@@ -1,0 +1,23 @@
+.ewd-otp-clear {
+  clear:both;
+}
+
+.OptionTab {
+	padding:15px;
+}
+.HiddenTab {
+  display:none;
+}
+
+.Row {
+  margin-bottom:25px;
+	min-height:100px;
+}
+a {
+  cursor:pointer;
+}
+
+.ewd-otp-textarea {
+  height:150px;
+	width:450px;
+}

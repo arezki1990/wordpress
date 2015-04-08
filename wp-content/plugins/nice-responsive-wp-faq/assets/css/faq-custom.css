@@ -1,0 +1,60 @@
+.panel-title > a {
+    text-decoration:none;
+	color:#fff;
+}
+.panel-title > a:hover {
+    text-decoration:none;
+	color:#fff;
+}
+.panel-group .panel {
+    margin-bottom: 0px;
+    border-radius: 0px;
+    overflow: hidden;
+}
+.panel-default {
+    border-color: transparent;
+}
+
+.panel-heading {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: transparent;
+}
+.panel-group .panel-heading {
+  padding: 0;
+}
+.panel-group .panel-heading a {
+  display: block;
+  padding: 15px;
+  color:#fff;
+  text-decoration: none;
+  position: relative;
+}
+.panel-group .panel-heading a:after {
+  content: '-';
+  position: absolute;
+  right: 20px;
+  top:5px;
+  font-size:30px;
+color: #fff;
+}
+.panel-group .panel-heading a.collapsed:after {
+  content: '+';
+color: #fff;
+}
+.panel-group .panel-collapse {
+  margin-top: 5px !important;
+}
+.panel-group .panel-body {
+  padding: 15px;
+}
+.panel-group .panel {
+  background-color: transparent;
+}
+.panel-group .panel-body p:last-child,
+.panel-group .panel-body ul:last-child,
+.panel-group .panel-body ol:last-child {
+  margin-bottom: 0;
+}

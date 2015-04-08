@@ -1,0 +1,19 @@
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(8/24/2014) - 0.2
+[*] Minor changes
+
+----
+
+(8/20/2014) - 0.1
+Initial Release
